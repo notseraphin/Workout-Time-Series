@@ -24,8 +24,8 @@ The pipeline combines SQL-based aggregation with Python visualization to produce
   - Repetitions
 
 Derived datasets:
-  - weekly_volume.csv — weekly training volume by muscle group
-  - results.txt — SQL query output containing progression metrics
+  - weekly_volume.csv : weekly training volume by muscle group
+  - results.txt : SQL query output containing progression metrics
 
 ***Model / Analysis Description***
 ***Weekly Volume Aggregation***
@@ -114,7 +114,7 @@ Muscle groups showed heterogeneous responses to training volume and exercise sel
 
 The results suggest that the training program would benefit from redistributing effort toward higher-quality, heavier sets, particularly for muscle groups already receiving high weekly volume. Strength progression appears most strongly associated with progressive overload and exercise selection, rather than sheer volume.
 
-***Technologies Used**
+***Technologies Used***
 - PostgreSQL
 - SQL
 - Python
