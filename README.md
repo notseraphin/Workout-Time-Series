@@ -93,6 +93,26 @@ Workout-Time-Series/
 - Exercise-level progression highlights consistency and plateaus in performance
 These outputs enable both longitudinal tracking and comparative muscle group analysis.
 
+***Analysis***
+Muscle groups showed heterogeneous responses to training volume and exercise selection:
+- Calves exhibited the highest average Δ1RM per exercise, despite relatively low weekly volume. This suggests high responsiveness and indicates that the current loading and frequency are sufficient for continued progress.
+- Hamstrings demonstrated strong and consistent progression, aligning with relatively high weekly volume. The combination of compound hip-hinge movements and sufficient workload appears effective and should be maintained.
+- Shoulders, Lats, Chest, and Quads showed moderate positive progression under high training volumes. While volume is adequate, the marginal strength gains suggest these groups may benefit from slightly increased intensity (heavier sets) rather than further volume increases.
+- Biceps showed minimal progression despite moderate volume, indicating that current loading may be insufficient. Introducing heavier loads, lower rep ranges, or improved exercise selection could improve stimulus.
+- Triceps displayed negative average progression, despite high weekly volume. This suggests accumulated fatigue or poor stimulus-to-fatigue ratio, likely due to excessive isolation work (e.g., extensions). Reducing volume and prioritizing compound pressing movements may improve outcomes.
+- Adductors showed low progression, which is likely constrained by equipment limitations. Since the adductor machine does not provide sufficient resistance, compound lower-body lifts may be more effective for adductor development.
+
+**Volume vs. Progression Insights**
+
+- Comparing weekly volume with strength progression highlights an important pattern:
+- Higher volume does not guarantee higher progression.
+- Muscle groups with moderate volume and adequate loading often outperformed those with very high volume but insufficient intensity.
+- Excessive volume without progressive overload appears to contribute to stagnation or regression in some muscle groups.
+
+**Overall Conclusion**
+
+The results suggest that the training program would benefit from redistributing effort toward higher-quality, heavier sets, particularly for muscle groups already receiving high weekly volume. Strength progression appears most strongly associated with progressive overload and exercise selection, rather than sheer volume.
+
 ***Technologies Used**
 - PostgreSQL
 - SQL
