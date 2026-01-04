@@ -94,6 +94,7 @@ Workout-Time-Series/
 These outputs enable both longitudinal tracking and comparative muscle group analysis.
 
 ***Analysis***
+
 Muscle groups showed heterogeneous responses to training volume and exercise selection:
 - Calves exhibited the highest average Δ1RM per exercise, despite relatively low weekly volume. This suggests high responsiveness and indicates that the current loading and frequency are sufficient for continued progress.
 - Hamstrings demonstrated strong and consistent progression, aligning with relatively high weekly volume. The combination of compound hip-hinge movements and sufficient workload appears effective and should be maintained.
