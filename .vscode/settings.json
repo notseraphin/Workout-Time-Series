@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:WorkoutTimeSeries}/workouts.db",
+            "name": "WorkoutTimeSeries"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
