@@ -94,7 +94,7 @@ Workout-Time-Series/
 These outputs enable both longitudinal tracking and comparative muscle group analysis.
 
 ***Technologies Used**
-- ostgreSQL
+- PostgreSQL
 - SQL
 - Python
   - pandas
